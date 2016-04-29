@@ -37,6 +37,7 @@ h6 {
 }
 
 hr.star-light,
+span.heart-light
 hr.star-primary {
     margin: 25px auto 30px;
     padding: 0;
@@ -44,6 +45,16 @@ hr.star-primary {
     border: 0;
     border-top: solid 5px;
     text-align: center;
+}
+
+span.heart-light:after {
+    content: "\f004";
+    display: inline;
+    position: relative;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em;
+    color: darkred;
 }
 
 hr.star-light:after,
