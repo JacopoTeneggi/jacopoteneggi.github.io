@@ -12,7 +12,7 @@ profile:
 
 news: true  # includes a list of news items
 publications: true # includes a list of publications
-preprints: true # includes a list of papers marked as "preprint={true}"
+preprints: false # includes a list of papers marked as "preprint={true}"
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
