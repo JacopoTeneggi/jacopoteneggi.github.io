@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Jacopo, a PhD student in the Computer Science Department at Johns Hopkins University, where I work with [Jeremias Sulam](https://sites.google.com/view/jsulam) and the [Mathematical Institute for Data Science](https://www.minds.jhu.edu/). I came to Baltimore from [Politecnico di Torino, Italy](https://www.polito.it/), where I earned my Bachelor's degree in Biomedical Engineering. 
+Hi! I am Jacopo, a PhD student in the Computer Science Department at Johns Hopkins University, where I work with [Jeremias Sulam](https://jsulam.github.io/) and the [Mathematical Institute for Data Science](https://www.minds.jhu.edu/). I came to Baltimore from [Politecnico di Torino, Italy](https://www.polito.it/), where I earned my Bachelor's degree in Biomedical Engineering. 
 
 I am passionate about building AI systems we can actually trust—especially when people's health is on the line. My research develops statistical methods that help us understand when and why AI works (or does not!).
 
