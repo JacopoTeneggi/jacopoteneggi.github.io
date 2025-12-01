@@ -25,3 +25,11 @@
 "Miller":
   - firstname: ["Michael I"]
     url: https://www.bme.jhu.edu/people/faculty/michael-i-miller/
+
+"Shu":
+  - firstname: ["Tianmin", "T."]
+    url: https://www.tshu.io/
+
+"Wang":
+  - firstname: ["Zhenzhen", "Z."]
+    url: https://sites.google.com/view/zhenzhen-wang/home
